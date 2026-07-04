@@ -109,4 +109,4 @@ src/
 
 ## 📝 License
 
-© 2024 Zero Studio. All rights reserved.
+© 2025 Zero Studio. All rights reserved.
