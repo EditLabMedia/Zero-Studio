@@ -1,3 +1,5 @@
+“This project was developed as a personal test and learning exercise. It is not a fully finished product, and users may need to make their own adjustments, including adding or modifying images, logos, and other assets. It is shared here for demonstration purposes.”
+
 # Zero Studio - Photography & Videography Agency
 
 A cinematic, ultra-professional, fully responsive website for Zero Studio - a premium photography and videography agency.
